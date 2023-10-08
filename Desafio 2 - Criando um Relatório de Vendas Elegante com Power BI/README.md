@@ -18,6 +18,6 @@ Criar um relatório no Power BI Desktop com base na sample Financials disponibil
 ## Conhecimento e habilidades
  ![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi)
 
- ### Para mais informações
+## Para mais informações
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:maikonepereira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/maikonpereira/)
