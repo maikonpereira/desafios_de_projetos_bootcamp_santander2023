@@ -8,9 +8,9 @@ Aplicar as etapas de coleta, obtenção e transformação de dados com Power BI 
 
 ### Etapa 1 - Instância Azure
 1. Criação de uma instância do MySQL no Azure
-2. Conecção ao banco de dados com Cloud Shell
+2. Conexão ao banco de dados com Cloud Shell
 3. Criação da regra de firewall na Azure para o acesso ao banco de dados
-4. Insert no banco com script fornecido pelo instrutos
+4. Insert no banco com script fornecido pelo instrutor
 5. Integração do Power BI com MySQL no Azure
 6. Verificar problemas na base a fim de realizar a transformação dos dados
 
@@ -22,7 +22,7 @@ Aplicar as etapas de coleta, obtenção e transformação de dados com Power BI 
 5. Exclusão das colunas desnecessárias.
 6. Mesclagem das colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores
 7. Mesclagem  dos nomes de departamentos e localização, para combinação departamento-local seja único
-8. Agrupamento de daods a fim de saber quantos colaboradores existem por projeto e departamento
+8. Agrupamento de dados a fim de saber quantos colaboradores existem por projeto e departamento
 
 
 ## Conhecimento e habilidades
